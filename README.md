@@ -1,5 +1,7 @@
 # Diwali-Sales-Analysis-by-mukta-jotwani
 # 🎆 Diwali Sales Analysis
+<img width="1024" height="1536" alt="08673b34-54ee-4554-95c3-ca5224026cb3" src="https://github.com/user-attachments/assets/3ccdf59b-cc8d-405e-9a83-e5f84a195e55" />
+
 
 A data analysis project focused on understanding customer behavior and sales trends during the Diwali festival using Python and Jupyter Notebook.
 
